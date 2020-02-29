@@ -8,14 +8,4 @@ ensemble classifiers. A Deep Forest approximation of a neural network (which has
 
 
 ## Dependency Management
-Python packages are managed with <a href="https://pypi.org/project/pipenv/">pipenv</a>
-
-To install dependencies, run
-```
-pipenv install
-```
-
-To begin a session, run
-```
-pipenv shell
-``` 
+Install onnx with pip
